@@ -9,7 +9,7 @@ body {
     display: block;
     margin: 0 auto;
     position: relative;
-    top: 100;
+    top: 100px;
     --glow-color: rgb(217, 176, 255);
     --glow-spread-color: rgba(191, 123, 255, 0.781);
     --enhanced-glow-color: rgb(231, 206, 255);
@@ -76,7 +76,7 @@ body {
     border-radius: 0.05em;
     transition: opacity .2s;
     color: rgb(217, 176, 255);
-    font-size: 60;
+    font-size: 60px;
   font-weight: lighter;
     text-align: center;
     line-height: 425px;
